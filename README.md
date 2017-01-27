@@ -2,6 +2,11 @@ boxd
 ====
 For use in the console. Create boxes around text.
 
+Install
+-------
+Install from npm:  
+`npm i --save boxd`
+
 Usage
 -----
 `boxd(String | Array, options)`
