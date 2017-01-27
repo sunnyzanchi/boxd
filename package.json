@@ -1,0 +1,23 @@
+{
+  "name": "boxd",
+  "version": "0.1.0",
+  "description": "Create boxes around text with Unicode box-drawing characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zanchi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zanchi/boxd.git"
+  },
+  "files": [
+    "index.js",
+    "types.js"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
